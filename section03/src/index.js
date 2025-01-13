@@ -20,6 +20,7 @@ import mul , {add,sub} from "./math.js";
 
 // ----------------------------------------//
 
+
 //라이브러리에서 무언가를 가져올때는 라이브러리의 이름만 명시하면 된다.
 import randomColor from "randomcolor";
 
