@@ -26,7 +26,6 @@ import randomColor from "randomcolor";
 const color =randomColor();
 
 console.log(color);
-
 // node_modules 파일은 라이브러리의 정보들을 가지고있는 파일이다.
 // 혹여나 공유할때에는 이 파일은 삭제하고 보내도 상관이없다.(파일의 용량을 줄이기위해)
 // 터미널에서 npm i 만입력해주어도 package 데이터에 dependencies 되어있는 npm들을 찾아서 다운로드함
